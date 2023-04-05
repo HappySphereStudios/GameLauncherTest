@@ -44,15 +44,15 @@
         "Operation" : 0,
         "RelativePath" : "LauncherTest_Data/globalgamemanagers",
         "Attributes" : 32,
-        "LastWriting" : "2023-04-05 16:57:50Z",
+        "LastWriting" : "2023-04-05 17:07:02Z",
         "Size" : 86136,
-        "Hash" : "QxL69hAPftaqMAdouINCyRk1UiE"
+        "Hash" : "vhSwFlhq2aYJUjGPDW0X0CPjw68"
       },
       {
         "Operation" : 0,
         "RelativePath" : "LauncherTest_Data/globalgamemanagers.assets",
         "Attributes" : 32,
-        "LastWriting" : "2023-04-05 16:57:50Z",
+        "LastWriting" : "2023-04-05 17:07:02Z",
         "Size" : 199200,
         "Hash" : "H6yrn3AClI4ctuXqIwcNm8/lQlc"
       },
@@ -60,15 +60,15 @@
         "Operation" : 2,
         "RelativePath" : "LauncherTest_Data/level0",
         "Attributes" : 32,
-        "LastWriting" : "2023-04-05 16:57:50Z",
-        "Size" : 20472,
-        "Hash" : "srmWQfiCd/jag7HZKLV0SbZVFZw"
+        "LastWriting" : "2023-04-05 17:07:02Z",
+        "Size" : 20488,
+        "Hash" : "QcuWxEz7vQCR0ufaw15gW1fBk6E"
       },
       {
         "Operation" : 0,
         "RelativePath" : "LauncherTest_Data/level0.resS",
         "Attributes" : 32,
-        "LastWriting" : "2023-04-05 16:57:50Z",
+        "LastWriting" : "2023-04-05 17:07:02Z",
         "Size" : 131232,
         "Hash" : "XP/LhYX/v86M2U29b3IyMOtCEEk"
       },
@@ -76,7 +76,7 @@
         "Operation" : 0,
         "RelativePath" : "LauncherTest_Data/resources.assets",
         "Attributes" : 32,
-        "LastWriting" : "2023-04-05 16:57:50Z",
+        "LastWriting" : "2023-04-05 17:07:02Z",
         "Size" : 35920,
         "Hash" : "LWHJDD46KiA0aBi1+DMJj6OlWsg"
       },
@@ -84,7 +84,7 @@
         "Operation" : 0,
         "RelativePath" : "LauncherTest_Data/resources.assets.resS",
         "Attributes" : 32,
-        "LastWriting" : "2023-04-05 16:57:50Z",
+        "LastWriting" : "2023-04-05 17:07:02Z",
         "Size" : 60160,
         "Hash" : "BlBlkDJTbOzyjiGiJ1CiO5LmoII"
       },
@@ -108,7 +108,7 @@
         "Operation" : 0,
         "RelativePath" : "LauncherTest_Data/sharedassets0.assets",
         "Attributes" : 32,
-        "LastWriting" : "2023-04-05 16:57:50Z",
+        "LastWriting" : "2023-04-05 17:07:02Z",
         "Size" : 41684,
         "Hash" : "LMLeMlgm90dSX8ITSzvaAcV2198"
       },
@@ -116,7 +116,7 @@
         "Operation" : 0,
         "RelativePath" : "LauncherTest_Data/sharedassets0.assets.resS",
         "Attributes" : 32,
-        "LastWriting" : "2023-04-05 16:57:50Z",
+        "LastWriting" : "2023-04-05 17:07:02Z",
         "Size" : 13594192,
         "Hash" : "mVtY+4NXlCC2ReX1ZzfpOSPsnVs"
       },
@@ -1036,7 +1036,7 @@
         "Operation" : 0,
         "RelativePath" : "LauncherTest_Data/Resources/unity_builtin_extra",
         "Attributes" : 32,
-        "LastWriting" : "2023-04-05 16:57:50Z",
+        "LastWriting" : "2023-04-05 17:07:02Z",
         "Size" : 391768,
         "Hash" : "XAnXcL9xeoNJq6roaQDaTKLnclU"
       },
