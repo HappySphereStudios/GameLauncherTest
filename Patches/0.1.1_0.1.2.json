@@ -1,0 +1,43 @@
+{
+    "From" : "0.1.1",
+    "To" : "0.1.2",
+    "Hash" : "TNn8lxNGB+eB+Z8+0Ikeigf2NX0",
+    "TotalSize" : 12776,
+    "Entries" : [
+      {
+        "Operation" : 2,
+        "RelativePath" : "Test_Data/globalgamemanagers",
+        "Attributes" : 32,
+        "LastWriting" : "2023-04-05 17:00:52Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "Test_Data/level0",
+        "Attributes" : 32,
+        "LastWriting" : "2023-04-05 17:00:52Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "Test_Data/Plugins/x86_64/lib_burst_generated.dll",
+        "Attributes" : 32,
+        "LastWriting" : "2023-04-05 17:00:52Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "Test_BurstDebugInformation_DoNotShip/Data/Plugins/x86_64/lib_burst_generated.txt",
+        "Attributes" : 32,
+        "LastWriting" : "2023-04-05 17:00:47Z",
+        "Size" : 0
+      },
+      {
+        "Operation" : 2,
+        "RelativePath" : "version.data",
+        "Attributes" : 32,
+        "LastWriting" : "2023-04-05 17:01:29Z",
+        "Size" : 0
+      }
+    ]
+  }
